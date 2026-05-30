@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usersave",
+        "uuid": 7230858,
+        "checksum": "f744z9"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
